@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ghvc1OpgUjndnvl+Sj0la1qjpu0jbLy18S51nWMClQk=",
+  "Source": "RedisPOC",
+  "BasePath": "_content/RedisPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
