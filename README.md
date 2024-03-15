@@ -23,7 +23,7 @@ git clone https://github.com/Rushikesh401/RedisCachePOC.git
 
 
 ## Article
-I've written an article providing more details about caching and step by step process on how to implment it in ASP.NET Core Web API.You can read it here.
+I've written an article providing more details about caching and step by step process on how to implment it in ASP.NET Core Web API.You can read it [here](https://medium.com/@rushikeshsuradkar2000/distributed-caching-using-redis-in-net-core-web-api-7af8005b8f8b).
 ## About Me
 I'm a Software Developer who loves to learn new things :)
 
